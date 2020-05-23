@@ -1,4 +1,4 @@
-package com.example.bottomnavigation
+package com.example.level7task1
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
